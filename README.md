@@ -11,8 +11,11 @@ Tested with Python 2.7 and Python 3.5 on a standard Linux install.
  - products.txt - The Product list from Sortable.com, as of May, 2016.
  - listings.txt - The Listings from Sortable.com, as of May, 2016.
  - Classes.py - Class definitions for Product, Listing, and Result; JSON Encode/Decode functions.
- - main.py - Main program file.
+ - main.py - Main program file. 
  
+###Output:
+ - results.json - A plain-text file of sorted Products with associated Listings, in JSON format.
+
 ### To run:
 ```
 /path/to/python2 main.py
