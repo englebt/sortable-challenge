@@ -3,7 +3,7 @@ from Classes import Product, Listing, Result, ProdDecoder, ListDecoder, Encoder
 
 productFile = 'products.txt'
 listingFile = 'listings.txt'
-resultsFile = 'results.json'
+resultsFile = 'results.txt'
 
 products = []
 listings = []
