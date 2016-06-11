@@ -14,7 +14,7 @@ Tested with Python 2.7 and Python 3.5 on a standard Linux install.
  - main.py - Main program file. 
  
 ###Output:
- - results.json - A plain-text file of sorted Products with associated Listings, in JSON format.
+ - results.txt - A plain-text file of sorted Products with associated Listings, in JSON format.
 
 ### To run:
 ```
