@@ -24,3 +24,5 @@ or
 ```
 /path/to/python3 main.py
 ```
+
+A single record run through the [Sortable validator](https://challenge-check.sortable.com/validate) returns success, but the entire results file is too large. Additional testing needs to be done to verify there are no false positives inflating the results file.
